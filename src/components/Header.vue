@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="container" >
     <Logo/>
     <div class="nav nav-pills">
       <div 
